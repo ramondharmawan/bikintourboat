@@ -1,0 +1,12 @@
+info superuser
+
+username : raycoco
+email : raycoco404@gmail.com
+pass: Bali1234
+
+
+---- noted -----
+- 4 dec  static files done, next part 5 | main template
+- 12 dec part 5 done, next part 6
+- 13 dec part 6 is done, next part 7
+- 17 dec part 7 is done. next part 8
