@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f91ccc2-336b-4189-9680-83819ea0be84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbikin/boat/templates/boat/boat.html" beforeDir="false" afterPath="$PROJECT_DIR$/webbikin/boat/templates/boat/boat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbikin/boat/templates/boat/boatsearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/webbikin/boat/templates/boat/boatsearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbikin/boat/templates/boat/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/webbikin/boat/templates/boat/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbikin/boat/templates/boat/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/webbikin/boat/templates/boat/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbikin/boat/templates/boat/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/webbikin/boat/templates/boat/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbikin/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/webbikin/static/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kiOvV2V2NuZdk6gRVYd9b7m5bN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
